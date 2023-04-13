@@ -71,6 +71,13 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <div>
+        {" "}
+        <a href="https://github.com/atbranco/weather-react">
+          Open-source code
+        </a>{" "}
+        , by Ana Teresa Branco
+      </div>
     </div>
   );
 }
